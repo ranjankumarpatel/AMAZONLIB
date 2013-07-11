@@ -1,5 +1,7 @@
 amazonlib 2.1.1  February 19th, 2012
+
 Web site: www.awsbook.com
+
 Author: Jason Levitt
 
 

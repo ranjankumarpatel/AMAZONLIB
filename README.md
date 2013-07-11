@@ -1,7 +1,6 @@
-
 amazonlib 2.1.1  February 19th, 2012
 Web site: www.awsbook.com 
-Author: Jason Levitt (fredb86@users.sourceforge.net)
+Author: Jason Levitt 
 
 [NOTE: as of February 21st, 2012, Amazon has deprecated (e.g. turned off) a
 bunch of functionality in the Product Advertising API. Though I'm sure there are

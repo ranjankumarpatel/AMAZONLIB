@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Song Search 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-01-15 10:51-0600\n"
+"PO-Revision-Date: 2005-01-16 19:26-0600\n"
+"Last-Translator: Jason Levitt <jlevitt@gmail.com>\n"
+"Language-Team: Jason et al <jlevitt@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+#: songsearch.php:156
+msgid "Please enter keywords"
+msgstr "Veuillez écrire les mots-clés"
+
+
+#: songsearch.php:170
+msgid "Disc"
+msgstr "Disque"
+
+#: songsearch.php:176
+msgid "Track"
+msgstr "Voie"
+
+#: songsearch.php:183
+msgid "No matching song titles were found"
+msgstr "Aucun titre assorti de chanson n'a été trouvé"
+
+#: layout.php:4
+#: layout.php:10
+msgid "Song Title Search"
+msgstr "Recherche De Titre De Chanson"
+
+#: layout.php:13
+msgid "Enter Song Title Keywords"
+msgstr "Écrivez les mots-clés de titre de chanson"
+
+#: layout.php:16
+msgid "Submit"
+msgstr "Soumettez"
+
+#: layout.php:19
+msgid "Choose a site to search"
+msgstr "Choisissez un emplacement pour rechercher"
+

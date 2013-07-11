@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Song Search 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-01-15 10:51-0600\n"
+"PO-Revision-Date: 2005-01-16 19:25-0600\n"
+"Last-Translator: Jason Levitt <jlevitt@gmail.com>\n"
+"Language-Team: Jason et al <jlevitt@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+#: songsearch.php:156
+msgid "Please enter keywords"
+msgstr "Tragen Sie bitte Schlüsselwörter ein"
+
+#: songsearch.php:170
+msgid "Disc"
+msgstr "Disk"
+
+#: songsearch.php:176
+msgid "Track"
+msgstr "Titel"
+
+#: songsearch.php:183
+msgid "No matching song titles were found"
+msgstr "Es wurden keine passenden liedertitel gefunden"
+
+#: layout.php:4
+#: layout.php:10
+msgid "Song Title Search"
+msgstr "Liedertitelsuche"
+
+#: layout.php:13
+msgid "Enter Song Title Keywords"
+msgstr "Geben Sie Liedertitel Suchworte Ein"
+
+#: layout.php:16
+msgid "Submit"
+msgstr "Einsenden"
+
+#: layout.php:19
+msgid "Choose a site to search"
+msgstr "Beschließen Sie einen Aufstellungsort, um zu suchen"
+

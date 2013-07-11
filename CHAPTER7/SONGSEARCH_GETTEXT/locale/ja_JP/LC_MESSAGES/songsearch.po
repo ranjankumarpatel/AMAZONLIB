@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Song Search 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-01-15 10:51-0600\n"
+"PO-Revision-Date: 2005-01-16 13:50-0600\n"
+"Last-Translator: Jason Levitt <jlevitt@gmail.com>\n"
+"Language-Team: Jason et al <jlevitt@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: songsearch.php:156
+msgid "Please enter keywords"
+msgstr "キーワードを入れなさい"
+
+#: songsearch.php:170
+msgid "Disc"
+msgstr "ディスク"
+
+#: songsearch.php:176
+msgid "Track"
+msgstr "トラック"
+
+#: songsearch.php:183
+msgid "No matching song titles were found"
+msgstr "一致の歌のタイトルは見つけられなかった"
+
+#: layout.php:4
+#: layout.php:10
+msgid "Song Title Search"
+msgstr "歌のタイトル調査"
+
+#: layout.php:13
+msgid "Enter Song Title Keywords"
+msgstr "歌のタイトルのキーワードを入れなさい"
+
+#: layout.php:16
+msgid "Submit"
+msgstr "堤出しなさい"
+
+#: layout.php:19
+msgid "Choose a site to search"
+msgstr "捜すために場所を選びなさい"
+

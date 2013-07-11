@@ -1,0 +1,3 @@
+The REST request to access the example 2-6 stylesheet. 
+
+http://xml-us.amznxslt.com/onca/xml?AWSAccessKeyId=XXXXXXXXXXXXXXXXXX&AssociateTag=ws&ContentType=text%2Fhtml&IdType=ASIN&ItemId=B0001BKAEY&Operation=ItemLookup&Service=AWSECommerceService&Style=http%3A%2F%2Fawsbook.com%2FAMAZONLIB%2FCHAPTER2%2F2-6.xsl&Timestamp=2009-10-16T02%3A50%3A04.000Z&Version=2011-08-01&Signature=BYCdtevAA4rw41M91m1fmE8p3pIWoDfo744ggqodfBw%3D

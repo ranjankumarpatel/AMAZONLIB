@@ -1,0 +1,35 @@
+SELECT {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+INPUT {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.boxproduct {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000
+}
+
+.boxprice {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #990000
+}
+
+.boxname {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #3366FF
+}
+
+.pagination {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+      text-align: center;
+	color: #3366FF
+}
+
